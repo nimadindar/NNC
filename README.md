@@ -69,7 +69,8 @@ The graph of loss/accuracy per epoch is plotted:
 
 ![accuracy](https://user-images.githubusercontent.com/108633576/209683442-28f9eb2b-46ae-4d05-9d72-0e785a1288fb.png)
 
-I have also uploaded the tuned parameters and trained weights in result folder.
+I have also uploaded the tuned parameters and trained weights in the link below.
+
 
 
 
